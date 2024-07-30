@@ -72,7 +72,7 @@ for repo_name, details in map.items():
         branch_name = f'version-{version}'
         subprocess.run(['git', 'branch', '-m', branch_name])
 
-        remote_url = f'https://{token}@github.com/fossit-dev/{repo_name}.git'
+        remote_url = f'https://github.com/fossit-dev/{repo_name}.git'
         subprocess.run(['git', 'remote', 'add', 'origin', remote_url])
 
         subprocess.run(['git', 'push', '-u', 'origin', branch_name])
