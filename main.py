@@ -34,6 +34,16 @@ map = {
     "securly-for-classrooms": {
         "extension-id": "jfbecfmiegcjddenjhlbhlikcbfmnafd",
         "versions": []
+    },
+
+    "deledao": {
+        "extension-id": "aceopacgaepdcelohobicpffbbejnfac",
+        "versions": []
+    },
+
+    "hapara": {
+        "extension-id": "feahffpjnjlbbjjocajdmbbgbmplnpji",
+        "versions": []
     }
 }
 
