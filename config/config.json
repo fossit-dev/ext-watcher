@@ -1,0 +1,31 @@
+{
+  "watched_extensions": {
+    "haldlgldplgnggkjaafhelgiaglafanh": {
+      "update_url": "https://ext.goguardian.com/stable.xml",
+      "name_override": "Go Guardian"
+    },
+    "joflmkccibkooplaeoinecjbmdebglab": {
+      "update_url": "https://extensions.securly.com/extensions.xml",
+      "name_override":"Securly for Chromebooks"
+    },
+    "pgmjaihnmedpcdkjcgigocogcbffgkbn": {
+      "update_url": "https://clients2.google.com/service/update2/crx",
+      "name_override": "Blocksi"
+    },
+    "iheobagjkfklnlikgihanlhcddjoihkg": {
+      "update_url": "https://clients2.google.com/service/update2/crx",
+      "name_override": "Securly for Chromebooks (Old)"
+    },
+    "ddfbkhpmcdbciejenfcolaaiebnjcbfc": {
+      "update_url": "https://clients2.google.com/service/update2/crx",
+      "name_override": "Linewize Connect"
+    },
+    "jfbecfmiegcjddenjhlbhlikcbfmnafd": {
+      "update_url": "https://deviceconsole.securly.com/dist/chrome/n.xml",
+      "name_override": "Securly for Classrooms"
+    }
+  },
+  "discord_webhooks": [],
+  "collapse_diffs": true,
+  "debug": false
+}
