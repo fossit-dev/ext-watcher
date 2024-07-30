@@ -3,6 +3,9 @@ import os
 
 token = os.getenv('TOKEN')
 
+subprocess.run(['git', 'config', '--global', 'user.email', 'entrpix@outlook.com'])
+subprocess.run(['git', 'config', '--global', 'user.name', 'entrpix'])
+
 map = {
     "go-guardian": {
         "extension-id": "haldlgldplgnggkjaafhelgiaglafanh",
@@ -65,7 +68,7 @@ for repo_name, details in map.items():
         subprocess.run(['git', 'commit', '-m', f'Add version {version}'])
 
         branch_name = f'version-{version}'
-        subprocess.run(['git', 'branch', '-M', branch_name])
+        subprocess.run(['git', 'branch', '-m', branch_name])
 
         remote_url = f'https://{token}@github.com/fossit-dev/{repo_name}.git'
         subprocess.run(['git', 'remote', 'add', 'origin', remote_url])
