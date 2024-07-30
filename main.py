@@ -37,7 +37,7 @@ map = {
     }
 }
 
-os.chdir('extensions')
+os.chdir('ext-watcher/extensions')
 
 for repo_name, details in map.items():
     ext_id = details["extension-id"]
