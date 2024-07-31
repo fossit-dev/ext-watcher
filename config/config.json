@@ -23,6 +23,10 @@
     "jfbecfmiegcjddenjhlbhlikcbfmnafd": {
       "update_url": "https://deviceconsole.securly.com/dist/chrome/n.xml",
       "name_override": "Securly for Classrooms"
+    },
+    "becdplfalooflanipjoblcmpaekkbbhe": {
+      "update_url": "https://clients2.google.com/service/update2/crx",
+      "name_override": "Gopher Buddy"
     }
   },
   "discord_webhooks": [],
