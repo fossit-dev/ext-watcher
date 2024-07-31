@@ -23,14 +23,6 @@
     "jfbecfmiegcjddenjhlbhlikcbfmnafd": {
       "update_url": "https://deviceconsole.securly.com/dist/chrome/n.xml",
       "name_override": "Securly for Classrooms"
-    },
-    "aceopacgaepdcelohobicpffbbejnfac": {
-      "update_url": "https://storage.googleapis.com/hapara-extensions/extension-prod/updates.xml",
-      "name_override": "Hapara"
-    },
-    "feahffpjnjlbbjjocajdmbbgbmplnpji": {
-      "update_url": "https://cc.deledao.com/GetUpdates",
-      "name_override": "Deledao"
     }
   },
   "discord_webhooks": [],
