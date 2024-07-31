@@ -34,6 +34,11 @@ map = {
     "securly-for-classrooms": {
         "extension-id": "jfbecfmiegcjddenjhlbhlikcbfmnafd",
         "versions": []
+    },
+
+    "gopher-buddy": {
+        "extension-id": "becdplfalooflanipjoblcmpaekkbbhe",
+        "versions": []
     }
 }
 
